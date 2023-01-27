@@ -1,1 +1,1 @@
-# solution-for-lesson-25
+# Solutions for lesson 25.
